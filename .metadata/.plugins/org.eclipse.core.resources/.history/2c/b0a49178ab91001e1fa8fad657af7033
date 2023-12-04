@@ -1,0 +1,10 @@
+
+#Data Source Propertes
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.username=root
+spring.datasource.password=root
+spring.datasource.driver-class-name=org.h2.Driver
+
+#ORM Properties
+spring.jpa.hibernate.ddl-auto=update
+

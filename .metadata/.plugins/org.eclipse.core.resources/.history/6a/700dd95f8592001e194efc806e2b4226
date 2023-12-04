@@ -1,0 +1,13 @@
+
+#Data Source Propertes
+spring.datasource.url=jdbc:h2:mem:testdb
+spring.datasource.username=root
+spring.datasource.password=root
+spring.datasource.driver-class-name=org.h2.Driver
+
+#ORM Properties (For h2 DB tables created bydefault)
+#But in case of Mysql and oracle DB table not created bydefault then we use "ddl-auto = update"
+spring.jpa.hibernate.ddl-auto= update 
+
+#spring.mvc.pathmatch.matching-strategy=ant-path-matcher
+

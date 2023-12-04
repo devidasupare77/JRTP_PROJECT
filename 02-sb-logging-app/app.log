@@ -1,0 +1,137 @@
+2023-12-02T13:00:27.225+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 4676 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:00:27.226+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:00:27.492+05:30  INFO 4676 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:00:27.493+05:30  INFO 4676 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:00:27.495+05:30  INFO 4676 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:00:27.544+05:30  INFO 4676 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:00:27.545+05:30  INFO 4676 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 316 ms
+2023-12-02T13:00:27.732+05:30  INFO 4676 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-02T13:00:27.764+05:30  INFO 4676 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-02T13:00:27.783+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : Started Application in 0.623 seconds (process running for 165.381)
+2023-12-02T13:00:27.786+05:30  INFO 4676 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-02T13:00:36.668+05:30  INFO 4676 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 6 class path changes (0 additions, 0 deletions, 6 modifications)
+2023-12-02T13:00:36.801+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 4676 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:00:36.802+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:00:37.039+05:30  INFO 4676 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:00:37.040+05:30  INFO 4676 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:00:37.041+05:30  INFO 4676 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:00:37.064+05:30  INFO 4676 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:00:37.064+05:30  INFO 4676 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 259 ms
+2023-12-02T13:00:37.171+05:30  INFO 4676 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-02T13:00:37.186+05:30  INFO 4676 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-02T13:00:37.201+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : Started Application in 0.438 seconds (process running for 174.799)
+2023-12-02T13:00:37.205+05:30  INFO 4676 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-02T13:00:50.702+05:30  INFO 4676 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 6 class path changes (0 additions, 0 deletions, 6 modifications)
+2023-12-02T13:00:50.810+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 4676 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:00:50.810+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:00:51.039+05:30  INFO 4676 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:00:51.041+05:30  INFO 4676 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:00:51.041+05:30  INFO 4676 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:00:51.061+05:30  INFO 4676 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:00:51.061+05:30  INFO 4676 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 249 ms
+2023-12-02T13:00:51.154+05:30  INFO 4676 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-02T13:00:51.166+05:30  INFO 4676 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-02T13:00:51.176+05:30  INFO 4676 --- [restartedMain] com.tcs.Application                      : Started Application in 0.394 seconds (process running for 188.774)
+2023-12-02T13:00:51.178+05:30  INFO 4676 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-02T13:01:02.222+05:30  INFO 12864 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 12864 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:01:02.226+05:30  INFO 12864 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:01:02.310+05:30  INFO 12864 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-02T13:01:02.311+05:30  INFO 12864 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-02T13:01:03.454+05:30  INFO 12864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:01:03.470+05:30  INFO 12864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:01:03.471+05:30  INFO 12864 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:01:03.555+05:30  INFO 12864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:01:03.555+05:30  INFO 12864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1243 ms
+2023-12-02T13:01:03.991+05:30  WARN 12864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-12-02T13:01:04.025+05:30  WARN 12864 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-12-02T13:01:04.053+05:30  INFO 12864 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-02T13:01:04.087+05:30 ERROR 12864 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2023-12-02T13:01:14.562+05:30  INFO 4676 --- [RMI TCP Connection(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2023-12-02T13:01:55.882+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 8808 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:01:55.886+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:01:55.971+05:30  INFO 8808 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-02T13:01:55.972+05:30  INFO 8808 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-02T13:01:57.105+05:30  INFO 8808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:01:57.124+05:30  INFO 8808 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:01:57.125+05:30  INFO 8808 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:01:57.200+05:30  INFO 8808 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:01:57.201+05:30  INFO 8808 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1228 ms
+2023-12-02T13:01:57.634+05:30  INFO 8808 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-02T13:01:57.694+05:30  INFO 8808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-02T13:01:57.709+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : Started Application in 2.35 seconds (process running for 3.321)
+2023-12-02T13:03:02.648+05:30  INFO 8808 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-02T13:03:02.648+05:30  INFO 8808 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-12-02T13:03:02.650+05:30  INFO 8808 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-12-02T13:03:02.710+05:30  INFO 8808 --- [http-nio-8080-exec-1] com.tcs.rest.DemoRestController          : getWelcomeMsg() execution started...
+2023-12-02T13:03:02.711+05:30 ERROR 8808 --- [http-nio-8080-exec-1] com.tcs.rest.DemoRestController          : Exception Occured / by zero
+2023-12-02T13:03:02.711+05:30  INFO 8808 --- [http-nio-8080-exec-1] com.tcs.rest.DemoRestController          : getWelcomeMsg() executed ended...
+2023-12-02T13:04:57.159+05:30  INFO 8808 --- [http-nio-8080-exec-5] com.tcs.rest.DemoRestController          : getWelcomeMsg() execution started...
+2023-12-02T13:04:57.160+05:30 ERROR 8808 --- [http-nio-8080-exec-5] com.tcs.rest.DemoRestController          : Exception Occured / by zero
+2023-12-02T13:04:57.161+05:30  INFO 8808 --- [http-nio-8080-exec-5] com.tcs.rest.DemoRestController          : getWelcomeMsg() executed ended...
+2023-12-02T13:18:54.389+05:30  INFO 8808 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2023-12-02T13:18:54.546+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 8808 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:18:54.547+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:18:54.909+05:30  INFO 8808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:18:54.910+05:30  INFO 8808 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:18:54.910+05:30  INFO 8808 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:18:54.932+05:30  INFO 8808 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:18:54.933+05:30  INFO 8808 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 378 ms
+2023-12-02T13:18:55.070+05:30  INFO 8808 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-02T13:18:55.087+05:30  INFO 8808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-02T13:18:55.096+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : Started Application in 0.604 seconds (process running for 1020.708)
+2023-12-02T13:18:55.108+05:30  INFO 8808 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-02T13:23:11.381+05:30  INFO 8808 --- [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2023-12-02T13:23:11.483+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 8808 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:23:11.485+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:23:11.719+05:30  INFO 8808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:23:11.720+05:30  INFO 8808 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:23:11.720+05:30  INFO 8808 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:23:11.747+05:30  INFO 8808 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:23:11.747+05:30  INFO 8808 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 259 ms
+2023-12-02T13:23:11.848+05:30  INFO 8808 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-12-02T13:23:11.861+05:30  INFO 8808 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2023-12-02T13:23:11.877+05:30  INFO 8808 --- [restartedMain] com.tcs.Application                      : Started Application in 0.424 seconds (process running for 1277.489)
+2023-12-02T13:23:11.884+05:30  INFO 8808 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2023-12-02T13:23:39.750+05:30  INFO 2752 --- [restartedMain] com.tcs.Application                      : Starting Application using Java 17.0.6 with PID 2752 (E:\Project_sts\project_22_sts\02-sb-logging-app\target\classes started by Admin in E:\Project_sts\project_22_sts\02-sb-logging-app)
+2023-12-02T13:23:39.753+05:30  INFO 2752 --- [restartedMain] com.tcs.Application                      : No active profile set, falling back to 1 default profile: "default"
+2023-12-02T13:23:39.843+05:30  INFO 2752 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-12-02T13:23:39.844+05:30  INFO 2752 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-12-02T13:23:40.979+05:30  INFO 2752 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2023-12-02T13:23:40.995+05:30  INFO 2752 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-12-02T13:23:40.996+05:30  INFO 2752 --- [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-02T13:23:41.076+05:30  INFO 2752 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-12-02T13:23:41.077+05:30  INFO 2752 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1232 ms
+2023-12-02T13:23:41.550+05:30  WARN 2752 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
+2023-12-02T13:23:41.585+05:30  WARN 2752 --- [restartedMain] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2023-12-02T13:23:41.611+05:30  INFO 2752 --- [restartedMain] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2023-12-02T13:23:41.647+05:30 ERROR 2752 --- [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+

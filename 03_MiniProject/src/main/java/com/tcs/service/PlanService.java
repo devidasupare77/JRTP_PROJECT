@@ -1,0 +1,26 @@
+package com.tcs.service;
+
+import java.util.List;
+import java.util.Map;
+import com.tcs.entity.Plan;
+
+public interface PlanService {
+	
+	public Map<Integer, String> getPlanCategories(); //key-value => Integer for storeing id and String is for display data in dropdown
+	
+	public boolean savePlan(Plan plan);
+	
+	public List<Plan> getAllPlans();
+	
+	public Plan getPlanById(Integer planId);
+	
+	public boolean updatePlan(Plan plan);
+	
+	public boolean deletePlanById(Integer planId); //(hard delete)
+	
+	public boolean planStatusChange(Integer planId, String status); //activate / deactivate(polymorphic method) record (soft delete)
+	
+	
+	
+//upsert = insert(save) + update
+}

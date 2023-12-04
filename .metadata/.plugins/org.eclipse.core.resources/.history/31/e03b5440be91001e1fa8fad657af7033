@@ -1,0 +1,45 @@
+package com.tcs.rest;
+
+import java.util.Map;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.tcs.entity.Plan;
+import com.tcs.service.PlanService;
+
+import io.swagger.v3.oas.annotations.parameters.RequestBody;
+
+@RestController
+public class PlanRestController {
+	
+	@Autowired
+	private PlanService  planService; 
+	
+	@GetMapping("/categories")
+	public ResponseEntity<Map<Integer, String>> plancategories(){
+		Map<Integer, String> categories = planService.getPlanCategories();
+		
+		return new ResponseEntity<>(categories, HttpStatus.OK);
+		
+	}
+	@PostMapping("/plan")
+	public ResponseEntity<String> savePlan(@RequestBody Plan plan){
+		
+		String responseMsg = "";
+		
+		boolean isSaved = planService.savePlan(plan);
+		
+		if(isSaved) {
+			responseMsg = "Plan Saved";
+		}else {
+			responseMsg = "Plan Not Saved";
+		}
+		return new ResponseEntity<>(responseMsg, HttpStatus.CREATED);
+	}
+
+}

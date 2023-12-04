@@ -1,0 +1,6 @@
+logging.level.root=DEBUG   for overall project
+
+
+#logging.file.name=app.log
+
+
